@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # Rasplayer-FM,
 # By Remy van Elst, https://raymii.org
-# Based on Pirate Radio by Wynter Woods (Make Magazine)
+# License: GNU GPLv3
+# https://raymii.org/s/articles/Raspberry_Pi_FM_Radio_With_Buttons.html
+# Inspired by Pirate Radio by Wynter Woods (Make Magazine)
 
 try:	
 	import configparser
